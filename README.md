@@ -11,4 +11,4 @@ Group 2 Members:
 
 Submission of Milestone 1
 1) Video link of Blinky task: https://youtu.be/Z5XNEp0zHEc
-2) A short instruction on the process of setting up the Blinky app (1 page)
+2) A short instruction on the process of setting up the Blinky app (Milestone 1 report - 1 page)
